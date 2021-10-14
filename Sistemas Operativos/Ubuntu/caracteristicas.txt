@@ -1,0 +1,2 @@
+Ubuntu es una distribución GNU/Linux que ofrece un interesante sistema operativo para equipos de escritorio y servidores en el ámbito educativo. Es una distribución basada en Debian cuyas principales características son: Facilidad de manejo. Actualizaciones frecuentes.
+
